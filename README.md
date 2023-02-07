@@ -14,8 +14,8 @@ CustomCircularGauge {
 
 ```            
  
-![alt text](https://github.com/Nillrze/CircularGaugeProgressBar/73.png)
+![example](73.png)
  
-![alt text](https://github.com/Nillrze/CircularGaugeProgressBar/100.png)
+![example](100.png)
  
-![alt text](https://github.com/Nillrze/CircularGaugeProgressBar/5.png)
+![example](5.png)
